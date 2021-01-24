@@ -1,0 +1,58 @@
+Class 51
+Hexadecimal Number System and color design
+
+Decimal Number System: 0-9
+56 = 50+6 , 5*10^1+6*10^0
+123 = 1*10^2 + 2*10^1 + 3*10^0
+
+Binary Number System: 0,1
+101 = 1*2^2+0*2^1+1*2^0
+= 4+0+1
+= 5
+
+Hexadecimal Number System: 0-9 & A-F (16)
+A-10, 
+B-11,
+C-12,
+D-13,
+E-14,
+F-15.
+COLOR in hexadecimal number starts with a hash symbol. #
+#FFDDCCEE
+
+Hexadecimal to decimal
+AD = A*16^1+D*16^0
+= 10*16+13*1
+= 173
+
+Decimal to hexadecimal
+255 
+1)  Divide 255 by 16
+2)  Q= 15,
+3)  R=15, 
+4)  Divide the Q till it becomes 0
+5)  15/16
+6)  Q=0, 
+7)  R=15,
+8)  Check the remainders from bottom to top
+9)  15 = F,
+10) 15 = F,
+11) Corresponding hexadecimal no. = FF.
+
+White = rgb(255,255,255)
+#FFFFFF
+bLACK = rgb(0,0,0)
+#000000
+grey = rgb(128,128,128)
+#808080
+
+128
+
+128/16 
+Q=8,
+R=0,
+8/16
+Q=0
+R=8
+
+ 
